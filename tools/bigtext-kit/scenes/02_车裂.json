@@ -1,0 +1,26 @@
+{
+ "bg": "assets/bg/chariots_dusk.jpg",
+ "matte": null,
+ "items": [
+  {
+   "preset": "BANGSHU",
+   "text": "车裂",
+   "size": 300,
+   "x": 960,
+   "y": 290,
+   "t0": 0.3,
+   "ls": 10
+  }
+ ],
+ "subs": [
+  {
+   "t0": 0,
+   "t1": 9,
+   "text": "可他的下场，是被秦国[车裂]示众，全家被杀"
+  }
+ ],
+ "dur": 3.5,
+ "still": 3.0,
+ "zoomIn": true,
+ "flashAt": null
+}

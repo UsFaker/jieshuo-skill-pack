@@ -1,0 +1,33 @@
+{
+ "bg": "assets/bg/inn_night.jpg",
+ "matte": null,
+ "items": [
+  {
+   "preset": "SONG_WHITE",
+   "text": "被自己的法",
+   "size": 118,
+   "x": 470,
+   "y": 330,
+   "t0": 0.2
+  },
+  {
+   "preset": "SONG_RED",
+   "text": "挡在门外",
+   "size": 158,
+   "x": 600,
+   "y": 478,
+   "t0": 1.0
+  }
+ ],
+ "subs": [
+  {
+   "t0": 0,
+   "t1": 9,
+   "text": "商鞅，被自己定的法，挡在了门外"
+  }
+ ],
+ "dur": 3.5,
+ "still": 3.0,
+ "zoomIn": true,
+ "flashAt": null
+}

@@ -1,0 +1,27 @@
+{
+ "bg": "assets/bg/gate_pole.jpg",
+ "matte": "assets/matte/gate_pole.png",
+ "items": [
+  {
+   "preset": "SONG_RED",
+   "text": "立木为信",
+   "size": 180,
+   "x": 1000,
+   "y": 150,
+   "t0": 0.3,
+   "behind": true,
+   "ls": 14
+  }
+ ],
+ "subs": [
+  {
+   "t0": 0,
+   "t1": 9,
+   "text": "第一个爽点，[立木为信]"
+  }
+ ],
+ "dur": 3.5,
+ "still": 3.0,
+ "zoomIn": true,
+ "flashAt": null
+}

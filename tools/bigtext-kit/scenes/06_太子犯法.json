@@ -1,0 +1,27 @@
+{
+ "bg": "assets/bg/palace_prince.jpg",
+ "matte": "assets/matte/palace_prince.png",
+ "items": [
+  {
+   "preset": "SONG_RED",
+   "text": "太子犯法",
+   "size": 270,
+   "x": 960,
+   "y": 560,
+   "t0": 0.25,
+   "behind": true,
+   "ls": 6
+  }
+ ],
+ "subs": [
+  {
+   "t0": 0,
+   "t1": 9,
+   "text": "就在这时，[太子犯法]了"
+  }
+ ],
+ "dur": 3.5,
+ "still": 3.0,
+ "zoomIn": true,
+ "flashAt": null
+}

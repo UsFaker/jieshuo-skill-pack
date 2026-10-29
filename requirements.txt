@@ -1,0 +1,14 @@
+# Python 3.10+。pip install -r requirements.txt
+# 另需系统程序：ffmpeg（含 ffprobe、libx264）、Node.js 22、google-chrome（或 chromium），见 README.md
+numpy
+scipy
+soundfile
+librosa
+pypinyin
+faster-whisper
+resemblyzer
+praat-parselmouth
+pillow
+opencv-python-headless
+rembg[cpu]
+onnxruntime

@@ -1,0 +1,26 @@
+{
+ "bg": "assets/bg/portrait.jpg",
+ "matte": null,
+ "items": [
+  {
+   "preset": "BRUSH",
+   "text": "w:商|r:鞅",
+   "size": 330,
+   "x": 700,
+   "y": 420,
+   "t0": 0.25,
+   "ls": -85
+  }
+ ],
+ "subs": [
+  {
+   "t0": 0,
+   "t1": 9,
+   "text": "[商鞅]，让秦国从一个被人看不起的西部穷国"
+  }
+ ],
+ "dur": 3.5,
+ "still": 3.0,
+ "zoomIn": true,
+ "flashAt": null
+}

@@ -1,0 +1,26 @@
+/* 商鞅 大字/花字 kit — 1920x1080. Fonts are local files in ./fonts (licenses: fonts/LICENSES.md) */
+@font-face{font-family:'SongH';src:url('fonts/SourceHanSerifCN-Heavy.otf');}
+@font-face{font-family:'SansH';src:url('fonts/SourceHanSansCN-Heavy.otf');}
+@font-face{font-family:'YSHei';src:url('fonts/优设标题黑.ttf');}
+@font-face{font-family:'PMBrush';src:url('fonts/庞门正道粗书体.ttf');}
+@font-face{font-family:'HuangYou';src:url('fonts/ZCOOLQingKeHuangYou-Regular.ttf');}
+@font-face{font-family:'Bangshu';src:url('fonts/仓耳周珂正大榜书.ttf');}
+@font-face{font-family:'SerifSC';src:url('fonts/NotoSerifSC[wght].ttf');font-weight:200 900;}
+html,body{margin:0;padding:0;background:#000;}
+#stage{position:relative;width:1920px;height:1080px;overflow:hidden;background:#000;}
+#bgwrap,#fgwrap{position:absolute;inset:0;transform-origin:50% 50%;}
+#bgwrap img,#fgwrap img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;}
+#bgwrap img.zb{mix-blend-mode:normal;}
+#texts{position:absolute;inset:0;}
+#fgwrap{pointer-events:none;}
+#texts2{position:absolute;inset:0;}
+.bt{position:absolute;white-space:nowrap;line-height:1;transform-origin:50% 50%;will-change:transform,filter,opacity;}
+.bt .ch{display:inline-block;position:relative;}
+.bt.v{display:flex;flex-direction:column;align-items:center;}
+.bt.v .ch{display:block;margin-bottom:var(--vgap,0px);}
+.glint{position:absolute;inset:0;color:#fff !important;-webkit-mask-repeat:no-repeat;mask-repeat:no-repeat;pointer-events:none;}
+#sub{position:absolute;left:0;right:0;bottom:62px;text-align:center;font-family:'SerifSC';font-weight:800;font-size:50px;color:#fff;letter-spacing:2px;
+  -webkit-text-stroke:7px rgba(0,0,0,.92);paint-order:stroke fill;text-shadow:0 3px 8px rgba(0,0,0,.6);}
+#sub .hl{color:#F2000C;}
+#flash{position:absolute;inset:0;background:#fff;opacity:0;pointer-events:none;}
+#vig{position:absolute;inset:0;pointer-events:none;background:radial-gradient(ellipse at 50% 45%,rgba(0,0,0,0) 55%,rgba(0,0,0,.45) 100%);}

@@ -1,0 +1,43 @@
+{
+ "bg": "assets/bg/army.jpg",
+ "matte": null,
+ "items": [
+  {
+   "preset": "SONG_RED",
+   "text": "砍首级",
+   "size": 124,
+   "x": 600,
+   "y": 500,
+   "t0": 0.2
+  },
+  {
+   "preset": "SONG_RED",
+   "text": "升爵位",
+   "size": 124,
+   "x": 1330,
+   "y": 500,
+   "t0": 0.75
+  },
+  {
+   "preset": "SONG_WHITE",
+   "text": "KPI",
+   "size": 190,
+   "x": 960,
+   "y": 690,
+   "t0": 1.4,
+   "ls": 4,
+   "anim": "zoomPunch"
+  }
+ ],
+ "subs": [
+  {
+   "t0": 0,
+   "t1": 9,
+   "text": "这就是最直接的[KPI]，绩效看得见，奖励马上兑现"
+  }
+ ],
+ "dur": 3.5,
+ "still": 3.2,
+ "zoomIn": true,
+ "flashAt": null
+}

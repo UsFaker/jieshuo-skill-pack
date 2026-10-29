@@ -1,0 +1,27 @@
+{
+ "bg": "assets/bg/gate_pole.jpg",
+ "matte": null,
+ "items": [
+  {
+   "preset": "SONG_WHITE",
+   "text": "w:赏|r1.2:五十|w:金",
+   "size": 150,
+   "x": 300,
+   "y": 400,
+   "t0": 0.2,
+   "vertical": true,
+   "stagger": 0.09
+  }
+ ],
+ "subs": [
+  {
+   "t0": 0,
+   "t1": 9,
+   "text": "商鞅直接把赏金加到[五十金]"
+  }
+ ],
+ "dur": 3.5,
+ "still": 3.0,
+ "zoomIn": true,
+ "flashAt": null
+}
